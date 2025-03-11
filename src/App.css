@@ -1,0 +1,32 @@
+*{ 
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.button{
+    background-color: cadetblue;
+    border-radius: 5px;
+   border-radius: 8px;
+   font-size: 15px;
+   cursor: pointer;
+}
+.title{
+    font-size: 20px;
+    color: black;
+    background-color: yellow;
+}
+.form{
+    flex-direction: column;
+}
+.ul{
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
+
+}
+.img{
+    width: 2px;
+    height: 2px;
+    
+}
